@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarApp</string>
+    <string name="elemento_1">GATO</string>
+    <string name="elemento_2">PERRO</string>
+    <string name="elemento_3">SERPIENTE</string>
+    <string name="submen">Submenú</string>
+    <string name="sub_elemento_1">TORTUGA</string>
+    <string name="sub_elemento_2">CONEJO</string>
+    <string name="sub_elemento_3">HAMSTER</string>
+</resources>

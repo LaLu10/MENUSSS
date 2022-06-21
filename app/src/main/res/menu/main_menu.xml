@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/pet"
+        android:title="Opcion 1"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_pet"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/search"
+        android:title="Opcion 2"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/favorite"
+        android:title="Opcion 3"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_favorite"/>
+</menu>

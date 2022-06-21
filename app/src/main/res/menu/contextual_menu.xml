@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miEl1"
+        android:title="@string/elemento_1" />
+    <item
+        android:id="@+id/miEl2"
+        android:title="@string/elemento_2" />
+    <item
+        android:id="@+id/miEl3"
+        android:title="@string/elemento_3" />
+    <item
+        android:id="@+id/SubM"
+        android:title="@string/submen">
+        <menu>
+            <item
+                android:id="@+id/miSEl1"
+                android:title="@string/sub_elemento_1" />
+            <item
+                android:id="@+id/miSEl2"
+                android:title="@string/sub_elemento_2" />
+            <item
+                android:id="@+id/miSEl3"
+                android:title="@string/sub_elemento_3" />
+        </menu>
+    </item>
+</menu>
